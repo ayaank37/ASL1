@@ -62,7 +62,6 @@ for num in range(dude):
     elif lol == 't':
         image = Image.open('t.jpg')
         image.show()
-        lol = input('type a letter(lower case)')
     elif lol == 'u':
         image = Image.open('u.jpg')
         image.show()
